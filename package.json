@@ -1,0 +1,16 @@
+{
+  "name": "nodejsbotfossil",
+  "version": "1.0.0",
+  "description": "A Science Olympiad Fossils Discord Bot which will train Fossils competitors. It will use images from Google to quiz competitors from the Fossil List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abinavraj Ganesh Sudhakar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "googleapis": "^35.0.0"
+  }
+}
